@@ -1,5 +1,5 @@
 # ask
 
-Basically, this is the writing wall to place requests and check out what is happening.
+Basically, the writing wall to place requests and check what is happening.
 
-Around twitter, use #dotabout so we can get related topics together. :-) 
+Around twitter and similar, use #dotabout so we can get related talks together.
